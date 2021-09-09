@@ -1,4 +1,4 @@
-void task2(){
+void task2() {
   String name = "Michael";
   println(name);
   int age = 24;
